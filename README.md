@@ -8,7 +8,8 @@ You can play music on the fly.
 - Music Library
 - Fast
 - Great Design
+- Fully Responsive
 
 ## Website Demo
 
-<a href="#">Visit Website</a>
+<a href="https://bizarre-music-player.netlify.app/">Visit Website</a>
